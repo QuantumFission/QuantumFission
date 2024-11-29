@@ -18,6 +18,13 @@ I like combining my technical knowledge with design to make beautiful and effici
 
 **Database:** `MongoDB` `Firebase` `PostgreSQL` `sqlite`
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=is-akash&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=is-akash&langs_count=3&hide_title=true&hide_border=true" />
+</a>
+
 ## Contact me
 
  For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/akash-debnath-5a8648249/). 
