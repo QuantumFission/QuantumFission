@@ -20,6 +20,8 @@ I strive to stay consistent and reliable while seeking a job where I can collabo
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=is-akash&langs_count=3&hide_title=true&hide_border=true" />
 </a>
+<br />
+![](https://github-readme-streak-stats.herokuapp.com/?user=hunter305&theme=transparent&hide_border=false)<br/>
 
 ## Contact me
  For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/isakash/) 
