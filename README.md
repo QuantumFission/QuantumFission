@@ -21,7 +21,7 @@ I strive to stay consistent and reliable while seeking a job where I can collabo
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theaakashd&langs_count=3&hide_title=true&hide_border=true" />
 </a> 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=theaakashd&theme=transparent&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=theaakashd)
 
 ## Contact me
  For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/theaakashd/) 
