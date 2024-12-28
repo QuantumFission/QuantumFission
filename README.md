@@ -22,8 +22,10 @@ I strive to stay consistent and reliable while seeking a job where I can collabo
 </a> 
 
 <div class="width: 100%; display: flex; align-items: center; justify-content: center;">
- ![](https://github-readme-streak-stats.herokuapp.com/?user=akashdebnath-swe)
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashdebnath-swe" />
 </div>
+
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=akashdebnath-swe)
 
 ## Contact me
  For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/akashdebnath-swe/) 
