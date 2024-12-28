@@ -14,18 +14,14 @@ I strive to stay consistent and reliable while seeking a job where I can collabo
 **Database** : `MongoDB` `Firebase` `PostgreSQL` `sqlite` <br />
 **Others** : `WebRTC` `Prisma` `Redis` `WebSocket` <br />
 
-<div style="width: 100%; display: flex;">
-<div style="width: 100%; display: flex; align-items: center; justify-content: center; background-color: #FFFFFF">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akashdebnath-swe&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
-</div>
-<div style="width: 100%; display: flex; align-items: center; justify-content: center; background-color: #FFFFFF">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashdebnath-swe&langs_count=3&hide_title=true&hide_border=true" />
-</div>
+<a style="max-width: 100%; display: flex; align-items: center; justify-content: center background-color: #FFFFFF; gap: 2px;">
+  <img style="width: 33%" align="center" src="https://github-readme-stats.vercel.app/api?username=akashdebnath-swe&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
 
-<div style="width: 100%; display: flex; align-items: center; justify-content: center;background-color: #FFFFFF">
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashdebnath-swe" />
-</div>
-</div>
+  <img style="width: 33%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashdebnath-swe&langs_count=3&hide_title=true&hide_border=true" />
+
+ <img style="width: 33%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashdebnath-swe" />
+</a>
+
 ## Contact me
 
 For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/akashdebnath-swe/)
