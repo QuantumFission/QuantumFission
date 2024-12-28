@@ -15,7 +15,7 @@ I strive to stay consistent and reliable while seeking a job where I can collabo
 **Others** : `WebRTC` `Prisma` `Redis` `WebSocket` <br />
 
 <a style="width: 100%; display: flex; align-items: center; justify-content: center; background-color: #FFFFFF; align=center; margin-bottom: 2px">
-  <img style="width: 400px;" src="https://github-readme-stats.vercel.app/api?username=akashdebnath-swe&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
+  <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api?username=akashdebnath-swe&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
 </a>
 
   <img style="width: 33%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashdebnath-swe&langs_count=3&hide_title=true&hide_border=true" />
