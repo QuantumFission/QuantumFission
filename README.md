@@ -21,7 +21,7 @@ I strive to stay consistent and reliable while seeking a job where I can collabo
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashdebnath-swe&langs_count=3&hide_title=true&hide_border=true" />
 </a> 
 
-<div class="width: 100vw; display: flex; align-items: center; justify-content: center; background-color: red">
+<div class="width: 100%; display: flex; align-items: center; justify-content: center;">
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashdebnath-swe" />
 </div>
 
